@@ -10,6 +10,8 @@ command
 7.git log --oneline   -->show unique id of each commit in each file in single line
 8.git ls-files   -->showing all file
 9.git diff   -->show which chnages we made
+10.git remote add origin https://github.com/SanjivaniGavali/GitPract.git  -->connect repo with folder which we have to added inside git of name origin
+11.git push -u origin master   ---->push all file to github
 
 command
 
