@@ -7,3 +7,11 @@ command
 4.git commit -m "give some txxt"
 5.git status
 6.git add .  -->add all file at a time
+7.git log --oneline   -->show unique id of each commit in each file in single line
+8.git ls-files   -->showing all file
+
+
+command
+
+1.go back-->cd..
+2.go to next-->cd folder_name
