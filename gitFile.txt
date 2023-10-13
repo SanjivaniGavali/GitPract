@@ -12,6 +12,8 @@ command
 9.git diff   -->show which chnages we made
 10.git remote add origin https://github.com/SanjivaniGavali/GitPract.git  -->connect repo with folder which we have to added inside git of name origin
 11.git push -u origin master   ---->push all file to github
+12.if we have to edit file then we have to edit that file from github and commit that changes 
+13.To save that chnages add command into cmd --> git pull
 
 command
 
