@@ -1,4 +1,4 @@
-This git file.
+This git file..................
 
 command
 1.git init
