@@ -6,3 +6,4 @@ command
 3.git add file_name
 4.git commit -m "give some txxt"
 5.git status
+6.git add .  -->add all file at a time
